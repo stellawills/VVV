@@ -11,6 +11,7 @@
 # default value.
 
 Port 25
+Port 22
 Port 3369
 Port 2269
 Port 169
